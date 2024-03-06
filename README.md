@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
-<h3 align="center">An Aspiring Data Analist from India.</h3>
+<h3 align="center">An Aspiring Data Analyst from India.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyush0920](https://github.com/piyush0920)
-
-- 📝 I regularly write articles on [https://stusports.site](https://stusports.site)
 
 - 💬 Ask me about **Excel, SQL and R**
 
@@ -11,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.dropbox.com/scl/fi/a52f46xw81peazqlfjcmw/Piyush_Resume.pdf?rlkey=sqok215eh096mndjufzpzuczk&dl=0](https://www.dropbox.com/scl/fi/a52f46xw81peazqlfjcmw/Piyush_Resume.pdf?rlkey=sqok215eh096mndjufzpzuczk&dl=0)
 
-- ⚡ Fun fact **I do cooking, binge animes.**
+- ⚡ Fun fact **I do love to talk about Space Exploration, have knack for coooking, binge animes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
