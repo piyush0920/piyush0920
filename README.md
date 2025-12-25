@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
-<h3 align="center">An Aspiring Data Analyst from India.</h3>
+<h3 align="center">An Aspiring Data Analyst.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyush0920](https://github.com/piyush0920)
 
-- 💬 Ask me about **Excel, SQL and R**
+- 💬 Ask me about **Excel, SQL and Python**
 
 - 📫 How to reach me **piyushsh0920@gmail.com**
 
