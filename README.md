@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **piyushsh0920@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/a52f46xw81peazqlfjcmw/Piyush_Resume.pdf?rlkey=sqok215eh096mndjufzpzuczk&dl=0](https://www.dropbox.com/scl/fi/a52f46xw81peazqlfjcmw/Piyush_Resume.pdf?rlkey=sqok215eh096mndjufzpzuczk&dl=0)
+- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/iceoslyu8prur045dyg51/Piyush_Resume_2025.pdf?rlkey=wq2cw9molf7j8v6jli5touxyb&st=mx9z3ioj&dl=0)
 
 - ⚡ Fun fact **I do love to talk about Space Exploration, have knack for coooking, binge animes.**
 
