@@ -8,8 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-Detail-oriented Data Professional with hands-on experience in data cleaning, validation, workflow improvement, and working with large datasets. Skilled in SQL, Python, Excel, Tableau, and PySpark — supported by the **Google Data Analytics Certification** and currently pursuing an **Executive Diploma in DS & AI (IIIT Bangalore)**.  
-:contentReference[oaicite:1]{index=1}
+Detail-oriented Data Professional with hands-on experience in data cleaning, validation, workflow improvement, and working with large datasets. Skilled in SQL, Python, Excel, Tableau, and PySpark — supported by the **Google Data Analytics Certification** and currently pursuing an **Executive Diploma in DS & AI (IIIT Bangalore)**
 
 ---
 
@@ -24,7 +23,6 @@ Detail-oriented Data Professional with hands-on experience in data cleaning, val
 **Languages & Skills:** Python • SQL • Tableau • Excel (Advanced) • Data Cleaning/Wrangling • ETL • EDA • Data Visualization  
 **Cloud & Big Data:** PySpark • GCP • Azure  
 **Tools:** Jupyter Notebook • Google Sheets • Power BI (Basics) • GitHub • MS Office  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
