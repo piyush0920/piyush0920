@@ -1,28 +1,58 @@
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
-<h3 align="center">An Aspiring Data Analyst.</h3>
+<h3 align="center">Data Professional | Aspiring Data Analyst</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/piyush0920](https://github.com/piyush0920)
-
-- 💬 Ask me about **Excel, SQL and Python**
-
-- 📫 How to reach me **piyushsh0920@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/iceoslyu8prur045dyg51/Piyush_Resume_2025.pdf?rlkey=wq2cw9molf7j8v6jli5touxyb&st=mx9z3ioj&dl=0)
-
-- ⚡ Fun fact **I do love to talk about Space Exploration, have knack for coooking, binge animes.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-sharma-6591171ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-sharma-6591171ba" height="30" width="40" /></a>
-<a href="https://kaggle.com/piyushx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="piyushx" height="30" width="40" /></a>
-<a href="https://instagram.com/piyushsh_0912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushsh_0912" height="30" width="40" /></a>
+<p align="center">
+🔍 Turning raw data into meaningful insights — through analytics, visualization, and storytelling.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
+Detail-oriented Data Professional with hands-on experience in data cleaning, validation, workflow improvement, and working with large datasets. Skilled in SQL, Python, Excel, Tableau, and PySpark — supported by the **Google Data Analytics Certification** and currently pursuing an **Executive Diploma in DS & AI (IIIT Bangalore)**.  
+:contentReference[oaicite:1]{index=1}
 
-<!---
-piyush0920/piyush0920 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🚀 Featured Projects
+- 🗽 **NYC Taxi Operations Optimization (Capstone)** – End-to-end data cleaning, feature engineering, analysis, and dashboarding  
+- 📊 Data Visualization & Case-Projects (KPMG, Accenture – Virtual Experience)  
+*(You can add repo links once uploaded)*
+
+---
+
+### 🛠️ Tech Stack & Tools
+**Languages & Skills:** Python • SQL • Tableau • Excel (Advanced) • Data Cleaning/Wrangling • ETL • EDA • Data Visualization  
+**Cloud & Big Data:** PySpark • GCP • Azure  
+**Tools:** Jupyter Notebook • Google Sheets • Power BI (Basics) • GitHub • MS Office  
+:contentReference[oaicite:2]{index=2}
+
+---
+
+### 📫 Contact
+- 📍 Delhi, India
+- 📧 Email: **piyushsh0920@gmail.com**
+- 🗂 Portfolio & Projects: **https://github.com/piyush0920**
+- 📄 Resume: [Download Here](https://www.dropbox.com/scl/fi/iceoslyu8prur045dyg51/Piyush_Resume_2025.pdf?rlkey=wq2cw9molf7j8v6jli5touxyb&st=mx9z3ioj&dl=0)
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/piyush-sharma-6591171ba" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/piyushx" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/piyushsh_0912" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+### ⚡ Fun Facts
+- Big enthusiasm for **Space Exploration 🚀**
+- Love **anime, cooking 🍳**, and binge-watching documentaries
+
+---
