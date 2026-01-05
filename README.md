@@ -14,8 +14,8 @@ Detail-oriented Data Professional with hands-on experience in data cleaning, val
 
 ### 🚀 Featured Projects
 - 🗽 **NYC Taxi Operations Optimization (Capstone)** – End-to-end data cleaning, feature engineering, analysis, and dashboarding  
-- 📊 Data Visualization & Case-Projects (KPMG, Accenture – Virtual Experience)  
-*(You can add repo links once uploaded)*
+- 📊 Data Visualization & Case-Projects (KPMG, Accenture – Virtual Experience)
+- **Some other Projects** - Google Capstone, Pricing Model, Covid Dataset Analysis
 
 ---
 
