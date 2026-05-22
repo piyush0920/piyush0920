@@ -1,106 +1,89 @@
-<h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
-<h3 align="center">Data Analyst | Turning Data into Insights 📊</h3>
+# Hi, I'm Piyush Sharma 👋
 
-<p align="center">
-🔍 I transform raw data into meaningful insights through analysis, visualization, and storytelling.
-</p>
+**Insurance Operations Professional → Data Analyst / Data Scientist**
 
----
+I work at the intersection of **data quality, analytics, and machine learning** — with 2+ years of professional experience in P&C Insurance Operations at Xceedance (Management Liability & Professional Lines), and growing hands-on expertise in Python, SQL, PySpark, NLP, and Time Series Forecasting.
 
-### 👨‍💻 About Me
-
-Detail-oriented **Data Analyst** with hands-on experience in **data cleaning, validation, exploratory data analysis, and dashboarding**. I work with structured and semi-structured data to uncover patterns, improve processes, and support data-driven decision-making.
-
-🎓 Google Data Analytics Certified  
-📘 Pursuing Executive Diploma in Data Science & AI (IIIT Bangalore)
+Currently pursuing an **Executive Diploma in Data Science & AI from IIIT Bangalore**.
 
 ---
 
-### 🚀 Featured Projects
+## 🧠 What I Work On
 
-#### 🚗 Car Price Analysis & Prediction
-- Performed **data cleaning, EDA, and feature engineering** on automotive dataset  
-- Handled **skewed data using log transformation**  
-- Analyzed **feature relationships & multicollinearity (correlation, VIF)**  
-- Built regression models to support **price trend analysis**  
-- Key insight: *Well-structured data and preprocessing drive better outcomes than model complexity*
-
----
-
-#### 🗽 NYC Taxi Data Analysis (Capstone)
-- Conducted **end-to-end data analysis** to identify operational patterns  
-- Cleaned and transformed large datasets for usability  
-- Created **visual dashboards** to highlight actionable insights  
+- 📊 **Operations Analytics** — KPI governance, data reconciliation, SOP management, Zendesk CX metrics
+- 🤖 **Machine Learning** — Regression, Classification, NLP (CRF/NER), Feature Engineering
+- 📈 **Time Series Forecasting** — ARIMA, SARIMA, Holt-Winters, Exponential Smoothing
+- 🔍 **Data Mining & EDA** — PySpark pipelines, large-scale analytics, pattern detection
+- 📉 **BI & Reporting** — Power BI, Tableau, Advanced Excel
 
 ---
 
-#### 📊 Data Analytics & Visualization Projects
-- KPMG & Accenture Virtual Experience Projects  
-- Google Data Analytics Capstone  
-- COVID-19 Data Analysis  
-- Pricing Analysis  
+## 🚀 Featured Projects
+
+### ✈️ [Airline Passenger Demand Forecasting](https://github.com/piyush0920/airline-passenger-forecasting)
+> Python · Statsmodels · SARIMA · Time Series
+
+Systematically built and compared **13 forecasting models** — from Naive baselines to SARIMA with Box-Cox transformation — on real-world airline passenger data. Evaluated using RMSE and MAPE on a 24-month held-out test set.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔤 [NLP Entity Recognition — Recipe Data](https://github.com/piyush0920)
+> Python · CRF · NLP · Token Classification
 
-**Data Analysis:**  
-`Python` • `SQL` • `Excel (Advanced)` • `EDA` • `Data Cleaning` • `Data Wrangling`
-
-**Visualization:**  
-`Tableau` • `Power BI (Basics)` • `Matplotlib` • `Seaborn`
-
-**Tools & Platforms:**  
-`Jupyter Notebook` • `GitHub` • `Google Sheets` • `MS Excel`
-
-**Other Exposure:**  
-`PySpark` • `GCP` • `Azure`
+End-to-end Named Entity Recognition pipeline using **Conditional Random Fields (CRF)** for token-level classification. Achieved **99.93% validation accuracy** with structured error analysis and class imbalance handling.
 
 ---
 
-### 📈 What I Bring
+### 🚗 [Car Price Prediction & Regularisation Analysis](https://github.com/piyush0920)
+> Python · Scikit-learn · Ridge · Lasso · Regression
 
-- Strong foundation in **exploratory data analysis (EDA)**
-- Ability to convert data into **clear, actionable insights**
-- Experience working with **real-world datasets and business scenarios**
-- Focus on **clean, structured, and reproducible workflows**
-- Understanding of **data storytelling and visualization best practices**
+Compared baseline vs. regularised regression models (Ridge & Lasso) with feature engineering, multicollinearity diagnostics, and bias–variance analysis. Documented following model lifecycle best practices.
 
 ---
 
-### 📫 Contact
+### 🚕 [NYC Taxi Operations Optimisation](https://github.com/piyush0920)
+> Python · SQL · Tableau
 
-- 📍 Delhi, India  
-- 📧 Email: **piyushsh0920@gmail.com**  
-- 🗂 GitHub: **https://github.com/piyush0920**
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/piyush-sharma-6591171ba" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/piyushx" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/piyushsh_0912" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
+EDA on trip-level datasets to identify demand patterns and operational inefficiencies. Applied Linear Regression and built interactive Tableau dashboards for stakeholder-ready reporting.
 
 ---
 
-### ⚡ Fun Facts
+### 💥 [Collision Dataset Analysis](https://github.com/piyush0920)
+> PySpark · SQL · Large-Scale Analytics
 
-- 🚀 Interested in **space & emerging technologies**
-- 🎬 Enjoy **anime & documentaries**
-- 📊 I like exploring datasets just out of curiosity
-- 💪 Enjoy staying consistent with fitness & workouts
+End-to-end PySpark + SQL pipeline processing **1M+ collision records** — ingestion, transformation, deduplication, and batch analytics — producing risk insights for safety reporting.
 
 ---
 
-### ⭐ If you like my work
+## 🛠️ Tech Stack
 
-Feel free to ⭐ my repositories and connect with me!
+**Languages & Data**
+`Python` `SQL` `PySpark`
+
+**ML & Statistics**
+`Scikit-learn` `Statsmodels` `CRF` `ARIMA/SARIMA` `Holt-Winters` `Ridge/Lasso` `EDA`
+
+**BI & Visualisation**
+`Power BI` `Tableau` `Advanced Excel` `Matplotlib` `Seaborn`
+
+**Tools**
+`Jupyter Notebook` `GitHub` `VS Code` `Google BigQuery`
+
+---
+
+## 📜 Certifications
+
+- 🎓 **Executive Diploma in Data Science & AI** — IIIT Bangalore *(In Progress)*
+- 🏅 **Google Data Analytics Professional Certificate** — Coursera
+- 🏅 **Programming & Mathematics Bootcamp** — UpGrad
+
+---
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-sharma-6591171ba)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsh0920@gmail.com)
+
+---
+
+*📍 Delhi, India — Open to Data Analyst, Business Analyst & Data Scientist roles*
