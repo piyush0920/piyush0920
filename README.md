@@ -1,89 +1,151 @@
 # Hi, I'm Piyush Sharma 👋
 
-**Insurance Operations Professional → Data Analyst / Data Scientist**
+### Data Analyst | Machine Learning | Forecasting | Insurance Domain Expert
 
-I work at the intersection of **data quality, analytics, and machine learning** — with 2+ years of professional experience in P&C Insurance Operations at Xceedance (Management Liability & Professional Lines), and growing hands-on expertise in Python, SQL, PySpark, NLP, and Time Series Forecasting.
+Data professional with **2+ years of experience in Property & Casualty Insurance Operations at Xceedance**, specializing in process optimization, data quality, analytics, and reporting. Currently transitioning into advanced analytics and machine learning through hands-on projects in predictive modeling, NLP, forecasting, and large-scale data processing.
 
-Currently pursuing an **Executive Diploma in Data Science & AI from IIIT Bangalore**.
-
----
-
-## 🧠 What I Work On
-
-- 📊 **Operations Analytics** — KPI governance, data reconciliation, SOP management, Zendesk CX metrics
-- 🤖 **Machine Learning** — Regression, Classification, NLP (CRF/NER), Feature Engineering
-- 📈 **Time Series Forecasting** — ARIMA, SARIMA, Holt-Winters, Exponential Smoothing
-- 🔍 **Data Mining & EDA** — PySpark pipelines, large-scale analytics, pattern detection
-- 📉 **BI & Reporting** — Power BI, Tableau, Advanced Excel
+🎓 **Executive Diploma in Data Science & AI — IIIT Bangalore (In Progress)**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### ✈️ [Airline Passenger Demand Forecasting](https://github.com/piyush0920/airline-passenger-forecasting)
-> Python · Statsmodels · SARIMA · Time Series
-
-Systematically built and compared **13 forecasting models** — from Naive baselines to SARIMA with Box-Cox transformation — on real-world airline passenger data. Evaluated using RMSE and MAPE on a 24-month held-out test set.
-
----
-
-### 🔤 [NLP Entity Recognition — Recipe Data](https://github.com/piyush0920)
-> Python · CRF · NLP · Token Classification
-
-End-to-end Named Entity Recognition pipeline using **Conditional Random Fields (CRF)** for token-level classification. Achieved **99.93% validation accuracy** with structured error analysis and class imbalance handling.
+- 📊 Process Expert at Xceedance
+- 📈 Experienced in KPI reporting, operational analytics, and stakeholder communication
+- 🤖 Building end-to-end Machine Learning solutions using Python and Scikit-learn
+- ⏳ Passionate about Forecasting, Predictive Analytics, and Data-Driven Decision Making
+- 🔍 Strong foundation in Statistics, Hypothesis Testing, Feature Engineering, and Model Evaluation
 
 ---
 
-### 🚗 [Car Price Prediction & Regularisation Analysis](https://github.com/piyush0920)
-> Python · Scikit-learn · Ridge · Lasso · Regression
+## 🧠 Areas of Expertise
 
-Compared baseline vs. regularised regression models (Ridge & Lasso) with feature engineering, multicollinearity diagnostics, and bias–variance analysis. Documented following model lifecycle best practices.
+### 📊 Data Analytics
+- Exploratory Data Analysis (EDA)
+- Business Analytics
+- Statistical Analysis
+- KPI & Operational Reporting
+- Data Visualization
+
+### 🤖 Machine Learning
+- Classification
+- Regression
+- Feature Engineering
+- Model Evaluation
+- Hyperparameter Tuning
+- Model Interpretability
+
+### 📈 Forecasting & Time Series
+- ARIMA
+- SARIMA
+- Holt-Winters
+- Exponential Smoothing
+- Forecast Accuracy Evaluation
+
+### ⚙️ Data Engineering & Processing
+- SQL
+- PySpark
+- Data Cleaning
+- Data Transformation
+- ETL Fundamentals
 
 ---
 
-### 🚕 [NYC Taxi Operations Optimisation](https://github.com/piyush0920)
-> Python · SQL · Tableau
+## 🌟 Featured Projects
 
-EDA on trip-level datasets to identify demand patterns and operational inefficiencies. Applied Linear Regression and built interactive Tableau dashboards for stakeholder-ready reporting.
+### ❤️ Cardio Risk Prediction
+**Python | Scikit-learn | SVM | Decision Tree**
+
+Developed an end-to-end machine learning pipeline using **70K+ patient records** to predict cardiovascular disease risk. Performed EDA, BMI feature engineering, threshold optimization, and model tuning using GridSearchCV.
+
+**Key Results**
+- ~73% predictive accuracy
+- Identified cholesterol, age, BMI, and blood pressure as major risk factors
+- Built interpretable healthcare risk prediction models
 
 ---
 
-### 💥 [Collision Dataset Analysis](https://github.com/piyush0920)
-> PySpark · SQL · Large-Scale Analytics
+### ✈️ Airline Passenger Demand Forecasting
+**Python | SARIMA | Time Series Forecasting**
 
-End-to-end PySpark + SQL pipeline processing **1M+ collision records** — ingestion, transformation, deduplication, and batch analytics — producing risk insights for safety reporting.
+Built and compared **13 forecasting models** ranging from naïve baselines to SARIMA with Box-Cox transformation. Evaluated performance using RMSE and MAPE on a holdout dataset.
+
+---
+
+### 🔤 NLP Named Entity Recognition
+**Python | CRF | NLP**
+
+Developed a Named Entity Recognition system using Conditional Random Fields (CRF) for token classification with extensive feature engineering and model evaluation.
+
+---
+
+### 🚕 NYC Taxi Operations Optimization
+**Python | SQL | Tableau**
+
+Performed demand analysis and operational optimization using trip-level data. Built dashboards and predictive models to identify patterns and improve decision-making.
+
+---
+
+### 💥 Collision Dataset Analytics
+**PySpark | SQL | Big Data**
+
+Processed over **1M+ records** using PySpark and SQL to generate safety and risk insights through scalable analytics pipelines.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Data**
+### Programming
 `Python` `SQL` `PySpark`
 
-**ML & Statistics**
-`Scikit-learn` `Statsmodels` `CRF` `ARIMA/SARIMA` `Holt-Winters` `Ridge/Lasso` `EDA`
+### Machine Learning
+`Scikit-learn` `Statsmodels` `NLP` `CRF` `Regression` `Classification`
 
-**BI & Visualisation**
-`Power BI` `Tableau` `Advanced Excel` `Matplotlib` `Seaborn`
+### Forecasting
+`ARIMA` `SARIMA` `Holt-Winters` `Exponential Smoothing`
 
-**Tools**
-`Jupyter Notebook` `GitHub` `VS Code` `Google BigQuery`
+### Visualization
+`Power BI` `Tableau` `Matplotlib` `Seaborn` `Excel`
+
+### Tools
+`Git` `GitHub` `Jupyter Notebook` `VS Code` `Google BigQuery`
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 **Executive Diploma in Data Science & AI** — IIIT Bangalore *(In Progress)*
-- 🏅 **Google Data Analytics Professional Certificate** — Coursera
-- 🏅 **Programming & Mathematics Bootcamp** — UpGrad
+- 🎓 Executive Diploma in Data Science & AI — IIIT Bangalore *(In Progress)*
+- 🏅 Google Data Analytics Professional Certificate
+- 🏅 Programming & Mathematics Bootcamp — UpGrad
 
 ---
 
-## 📬 Let's Connect
+## 🎯 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-sharma-6591171ba)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushsh0920@gmail.com)
+- Machine Learning & Predictive Analytics
+- Time Series Forecasting
+- Advanced SQL & PySpark
+- End-to-End Data Science Projects
+- Building a Strong Analytics & ML Portfolio
 
 ---
 
-*📍 Delhi, India — Open to Data Analyst, Business Analyst & Data Scientist roles*
+## 📬 Connect With Me
+
+📍 Delhi, India
+
+💼 LinkedIn: https://www.linkedin.com/in/piyush-sharma-6591171ba
+
+📧 Email: piyushsh0920@gmail.com
+
+---
+
+### Open to Opportunities In
+
+- Data Analyst
+- Business Analyst
+- Machine Learning Analyst
+- Data Scientist
+- Forecasting & Predictive Analytics
+
+⭐ If you find my projects interesting, feel free to connect or collaborate!
