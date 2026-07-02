@@ -53,6 +53,19 @@ Data professional with **2+ years of experience in Property & Casualty Insurance
 
 ## 🌟 Featured Projects
 
+### 🚖 Namma Yatri — Ride-Hailing Data Visualization
+**Power BI | DAX | Data Modelling | EDA**
+
+End-to-end data visualization and analysis project on the Namma Yatri ride-hailing dataset across **37 Bengaluru zones**. Built a star schema data model with role-playing dimensions, created DAX measures for cancellation and completion metrics, and delivered strategic recommendations for operational efficiency and marketing.
+
+**Key Results**
+- Identified 48% cancellation rate on both driver and customer sides as the primary revenue leakage point
+- Night (21-05) generates 32.95% of total revenue despite similar hour count — late-night rides are longer and higher value
+- Ramanagaram leads in trip volume (39 trips) while Bangalore South leads in revenue per trip (₹30,295)
+- Quote-to-completion rate of 67.56% with only 45.49% of all searches converting to a completed ride
+
+---
+
 ### ❤️ Cardio Risk Prediction
 **Python | Scikit-learn | SVM | Decision Tree**
 
