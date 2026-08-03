@@ -1,18 +1,17 @@
 # Hi, I'm Piyush Sharma 👋
-
 ### Data Analyst | Machine Learning | Forecasting | Insurance Domain Expert
 
-Data professional with **2+ years of experience in Property & Casualty Insurance Operations at Xceedance**, specializing in process optimization, data quality, analytics, and reporting. Currently transitioning into advanced analytics and machine learning through hands-on projects in predictive modeling, NLP, forecasting, and large-scale data processing.
+Data professional with **2+ years of experience in Property & Casualty Insurance Operations at Xceedance**, specializing in process optimization, data quality, analytics, and reporting. Currently transitioning into advanced analytics and machine learning through hands-on projects in predictive modeling, NLP, forecasting, RAG/LLM systems, and large-scale data processing.
 
 🎓 **Executive Diploma in Data Science & AI — IIIT Bangalore (In Progress)**
 
 ---
 
 ## 🚀 About Me
-
 - 📊 Process Expert at Xceedance
 - 📈 Experienced in KPI reporting, operational analytics, and stakeholder communication
 - 🤖 Building end-to-end Machine Learning solutions using Python and Scikit-learn
+- 🧠 Exploring GenAI/LLM systems — RAG pipelines, vector databases, and evaluation frameworks
 - ⏳ Passionate about Forecasting, Predictive Analytics, and Data-Driven Decision Making
 - 🔍 Strong foundation in Statistics, Hypothesis Testing, Feature Engineering, and Model Evaluation
 
@@ -42,6 +41,12 @@ Data professional with **2+ years of experience in Property & Casualty Insurance
 - Exponential Smoothing
 - Forecast Accuracy Evaluation
 
+### 🧩 GenAI & LLM Systems
+- Retrieval-Augmented Generation (RAG)
+- LangChain, Vector Databases (Chroma)
+- Embeddings, Chunking Strategies
+- RAG Evaluation (Ragas)
+
 ### ⚙️ Data Engineering & Processing
 - SQL
 - PySpark
@@ -53,9 +58,19 @@ Data professional with **2+ years of experience in Property & Casualty Insurance
 
 ## 🌟 Featured Projects
 
+### 📄 RAG on Legal Documents
+**LangChain | Chroma | Ollama | Ragas**
+Built a local, free-to-run Retrieval-Augmented Generation pipeline over a 4-category legal corpus (NDAs, merger agreements, annotated contracts, privacy policies). Covered end-to-end data cleaning, EDA, chunking, embedding, vector storage, retrieval-augmented generation, and evaluation.
+
+**Key Results**
+- Achieved perfect context precision (1.0) on evaluated queries, confirming strong retrieval quality
+- Designed a dual-cleaning strategy preserving legal semantics (case, negation) for embeddings vs. aggressive cleaning for EDA
+- Evaluated generation and retrieval quality using Ragas, with clear analysis of local LLM constraints as an automated judge
+
+---
+
 ### 🚖 Namma Yatri — Ride-Hailing Data Visualization
 **Power BI | DAX | Data Modelling | EDA**
-
 End-to-end data visualization and analysis project on the Namma Yatri ride-hailing dataset across **37 Bengaluru zones**. Built a star schema data model with role-playing dimensions, created DAX measures for cancellation and completion metrics, and delivered strategic recommendations for operational efficiency and marketing.
 
 **Key Results**
@@ -68,7 +83,6 @@ End-to-end data visualization and analysis project on the Namma Yatri ride-haili
 
 ### ❤️ Cardio Risk Prediction
 **Python | Scikit-learn | SVM | Decision Tree**
-
 Developed an end-to-end machine learning pipeline using **70K+ patient records** to predict cardiovascular disease risk. Performed EDA, BMI feature engineering, threshold optimization, and model tuning using GridSearchCV.
 
 **Key Results**
@@ -80,28 +94,24 @@ Developed an end-to-end machine learning pipeline using **70K+ patient records**
 
 ### ✈️ Airline Passenger Demand Forecasting
 **Python | SARIMA | Time Series Forecasting**
-
 Built and compared **13 forecasting models** ranging from naïve baselines to SARIMA with Box-Cox transformation. Evaluated performance using RMSE and MAPE on a holdout dataset.
 
 ---
 
 ### 🔤 NLP Named Entity Recognition
 **Python | CRF | NLP**
-
 Developed a Named Entity Recognition system using Conditional Random Fields (CRF) for token classification with extensive feature engineering and model evaluation.
 
 ---
 
 ### 🚕 NYC Taxi Operations Optimization
 **Python | SQL | Tableau**
-
 Performed demand analysis and operational optimization using trip-level data. Built dashboards and predictive models to identify patterns and improve decision-making.
 
 ---
 
 ### 💥 Collision Dataset Analytics
 **PySpark | SQL | Big Data**
-
 Processed over **1M+ records** using PySpark and SQL to generate safety and risk insights through scalable analytics pipelines.
 
 ---
@@ -113,6 +123,9 @@ Processed over **1M+ records** using PySpark and SQL to generate safety and risk
 
 ### Machine Learning
 `Scikit-learn` `Statsmodels` `NLP` `CRF` `Regression` `Classification`
+
+### GenAI / LLM
+`LangChain` `Chroma` `Ollama` `Ragas` `HuggingFace`
 
 ### Forecasting
 `ARIMA` `SARIMA` `Holt-Winters` `Exponential Smoothing`
@@ -126,7 +139,6 @@ Processed over **1M+ records** using PySpark and SQL to generate safety and risk
 ---
 
 ## 📜 Certifications
-
 - 🎓 Executive Diploma in Data Science & AI — IIIT Bangalore *(In Progress)*
 - 🏅 Google Data Analytics Professional Certificate
 - 🏅 Programming & Mathematics Bootcamp — UpGrad
@@ -134,8 +146,8 @@ Processed over **1M+ records** using PySpark and SQL to generate safety and risk
 ---
 
 ## 🎯 Current Focus
-
 - Machine Learning & Predictive Analytics
+- RAG Systems & LLM Evaluation
 - Time Series Forecasting
 - Advanced SQL & PySpark
 - End-to-End Data Science Projects
@@ -144,17 +156,13 @@ Processed over **1M+ records** using PySpark and SQL to generate safety and risk
 ---
 
 ## 📬 Connect With Me
-
 📍 Delhi, India
-
 💼 LinkedIn: https://www.linkedin.com/in/piyush-sharma-6591171ba
-
 📧 Email: piyushsh0920@gmail.com
 
 ---
 
 ### Open to Opportunities In
-
 - Data Analyst
 - Business Analyst
 - Machine Learning Analyst
