@@ -1,172 +1,188 @@
 # Hi, I'm Piyush Sharma 👋
-### Data Analyst | Machine Learning | Forecasting | Insurance Domain Expert
 
-Data professional with **2+ years of experience in Property & Casualty Insurance Operations at Xceedance**, specializing in process optimization, data quality, analytics, and reporting. Currently transitioning into advanced analytics and machine learning through hands-on projects in predictive modeling, NLP, forecasting, RAG/LLM systems, and large-scale data processing.
+### Data Analytics × Machine Learning × GenAI
 
-🎓 **Executive Diploma in Data Science & AI — IIIT Bangalore (In Progress)**
+Data professional with **2+ years of experience in Property & Casualty Insurance Operations at Xceedance**, working across data quality, process optimization, KPI reporting, operational analytics, and stakeholder communication.
 
----
+Currently pursuing an **Executive Diploma in Data Science & AI from IIIT Bangalore**, while building hands-on projects across **Machine Learning, NLP, Time Series Forecasting, RAG/LLM systems, Power BI, SQL, and PySpark**.
 
-## 🚀 About Me
-- 📊 Process Expert at Xceedance
-- 📈 Experienced in KPI reporting, operational analytics, and stakeholder communication
-- 🤖 Building end-to-end Machine Learning solutions using Python and Scikit-learn
-- 🧠 Exploring GenAI/LLM systems — RAG pipelines, vector databases, and evaluation frameworks
-- ⏳ Passionate about Forecasting, Predictive Analytics, and Data-Driven Decision Making
-- 🔍 Strong foundation in Statistics, Hypothesis Testing, Feature Engineering, and Model Evaluation
+I enjoy turning messy data into useful insights, predictive models, and practical AI systems.
 
 ---
 
-## 🧠 Areas of Expertise
+## 👨‍💻 About Me
 
-### 📊 Data Analytics
-- Exploratory Data Analysis (EDA)
-- Business Analytics
-- Statistical Analysis
-- KPI & Operational Reporting
-- Data Visualization
-
-### 🤖 Machine Learning
-- Classification
-- Regression
-- Feature Engineering
-- Model Evaluation
-- Hyperparameter Tuning
-- Model Interpretability
-
-### 📈 Forecasting & Time Series
-- ARIMA
-- SARIMA
-- Holt-Winters
-- Exponential Smoothing
-- Forecast Accuracy Evaluation
-
-### 🧩 GenAI & LLM Systems
-- Retrieval-Augmented Generation (RAG)
-- LangChain, Vector Databases (Chroma)
-- Embeddings, Chunking Strategies
-- RAG Evaluation (Ragas)
-
-### ⚙️ Data Engineering & Processing
-- SQL
-- PySpark
-- Data Cleaning
-- Data Transformation
-- ETL Fundamentals
+- 💼 **Process Expert — Xceedance**
+- 📊 Experience in **operational analytics, KPI reporting, data validation & process optimization**
+- 🤖 Building end-to-end **Machine Learning & GenAI applications**
+- 🧠 Working with **RAG pipelines, vector databases, LLM evaluation & NLP**
+- 📈 Interested in **forecasting, predictive analytics & data-driven decision making**
+- ⚙️ Working with **Python, SQL, PySpark, Power BI & Scikit-learn**
+- 🎓 **Executive Diploma in Data Science & AI — IIIT Bangalore** *(In Progress)*
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-### 📄 RAG on Legal Documents
-**LangChain | Chroma | Ollama | Ragas**
-Built a local, free-to-run Retrieval-Augmented Generation pipeline over a 4-category legal corpus (NDAs, merger agreements, annotated contracts, privacy policies). Covered end-to-end data cleaning, EDA, chunking, embedding, vector storage, retrieval-augmented generation, and evaluation.
+### 🧠 [Legal Document RAG Pipeline](https://github.com/piyush0920/RAG_for_legal_documents)
 
-**Key Results**
-- Achieved perfect context precision (1.0) on evaluated queries, confirming strong retrieval quality
-- Designed a dual-cleaning strategy preserving legal semantics (case, negation) for embeddings vs. aggressive cleaning for EDA
-- Evaluated generation and retrieval quality using Ragas, with clear analysis of local LLM constraints as an automated judge
+**LangChain · ChromaDB · Ollama · Ragas**
 
----
+Built an end-to-end Retrieval-Augmented Generation pipeline over a multi-category legal document corpus covering NDAs, merger agreements, annotated contracts, and privacy policies.
 
-### 🚖 Namma Yatri — Ride-Hailing Data Visualization
-**Power BI | DAX | Data Modelling | EDA**
-End-to-end data visualization and analysis project on the Namma Yatri ride-hailing dataset across **37 Bengaluru zones**. Built a star schema data model with role-playing dimensions, created DAX measures for cancellation and completion metrics, and delivered strategic recommendations for operational efficiency and marketing.
-
-**Key Results**
-- Identified 48% cancellation rate on both driver and customer sides as the primary revenue leakage point
-- Night (21-05) generates 32.95% of total revenue despite similar hour count — late-night rides are longer and higher value
-- Ramanagaram leads in trip volume (39 trips) while Bangalore South leads in revenue per trip (₹30,295)
-- Quote-to-completion rate of 67.56% with only 45.49% of all searches converting to a completed ride
+**Highlights**
+- 📚 Processed **84K+ chunks** through the retrieval pipeline
+- 🎯 Achieved **1.0 context precision** on evaluated queries
+- 🔎 Implemented document cleaning, chunking, embeddings, vector storage and retrieval
+- 🧪 Evaluated retrieval and generation quality using **Ragas**
+- 🦙 Used **local LLM inference with Ollama**
+- ⚖️ Designed separate cleaning strategies for EDA and semantic-preserving embeddings
 
 ---
 
-### ❤️ Cardio Risk Prediction
-**Python | Scikit-learn | SVM | Decision Tree**
-Developed an end-to-end machine learning pipeline using **70K+ patient records** to predict cardiovascular disease risk. Performed EDA, BMI feature engineering, threshold optimization, and model tuning using GridSearchCV.
+### 📊 [Namma Yatri — Ride-Hailing Analytics Dashboard](https://github.com/piyush0920/Namma-Yatri-Ride-Hailing-Analysis-Power-BI-Dashboard)
 
-**Key Results**
-- ~73% predictive accuracy
-- Identified cholesterol, age, BMI, and blood pressure as major risk factors
-- Built interpretable healthcare risk prediction models
+**Power BI · DAX · Power Query · Data Modelling**
+
+Built an end-to-end Power BI analytics solution covering ride lifecycle, demand, revenue, geography, cancellations and operational performance across **37 Bengaluru zones**.
+
+**Highlights**
+- 🚕 **45.49%** successful ride conversion
+- 🔄 **67.56%** quote-to-completion rate
+- 🌍 Analysis across **37 Bengaluru zones**
+- 📐 Built a structured star-schema data model
+- 🧮 Developed DAX measures for operational KPIs
+- 📈 Identified cancellation and conversion patterns affecting revenue
 
 ---
 
-### ✈️ Airline Passenger Demand Forecasting
-**Python | SARIMA | Time Series Forecasting**
-Built and compared **13 forecasting models** ranging from naïve baselines to SARIMA with Box-Cox transformation. Evaluated performance using RMSE and MAPE on a holdout dataset.
+### ✈️ [Airline Passenger Demand Forecasting](https://github.com/piyush0920/airline-passenger-forecasting)
+
+**Python · Statsmodels · SARIMA · Forecasting**
+
+Compared **13 time-series forecasting approaches** on **144 monthly observations** to evaluate demand forecasting performance.
+
+**Highlights**
+- 📈 Compared naïve, statistical and SARIMA-based approaches
+- 🔬 Evaluated models using **RMSE and MAPE**
+- 📊 Used train/test time-series validation
+- 🧪 Applied transformations and seasonal modelling
+- 📅 Analysed long-term passenger demand trends
+
+---
+
+### ❤️ [Cardio Risk Prediction](https://github.com/piyush0920/cardio_risk_prediction)
+
+**Python · Scikit-learn · SVM · Decision Tree**
+
+Developed an end-to-end machine learning pipeline using **70K+ patient records** for cardiovascular risk prediction.
+
+**Highlights**
+- 🧹 Performed extensive data cleaning and EDA
+- 🧬 Engineered BMI-related features
+- 🤖 Compared multiple classification algorithms
+- 🎯 Applied threshold optimization
+- 🔧 Tuned models using **GridSearchCV**
+- 📊 Achieved approximately **73% predictive accuracy**
 
 ---
 
 ### 🔤 NLP Named Entity Recognition
-**Python | CRF | NLP**
-Developed a Named Entity Recognition system using Conditional Random Fields (CRF) for token classification with extensive feature engineering and model evaluation.
+
+**Python · CRF · NLP · Feature Engineering**
+
+Developed a Conditional Random Field-based NER system for token classification.
+
+**Highlights**
+- 🧩 Designed custom token-level features
+- 🏷️ Implemented sequence labelling
+- ⚖️ Addressed class imbalance
+- 📊 Evaluated model performance using classification metrics and confusion matrices
 
 ---
 
-### 🚕 NYC Taxi Operations Optimization
-**Python | SQL | Tableau**
-Performed demand analysis and operational optimization using trip-level data. Built dashboards and predictive models to identify patterns and improve decision-making.
+### 🚕 [NYC Taxi Operations Analysis](https://github.com/piyush0920/nycTaxiAssignment)
+
+**Python · SQL · Data Visualization**
+
+Analysed large-scale NYC taxi trip data to identify demand patterns, operational trends and opportunities for improved decision-making.
 
 ---
 
 ### 💥 Collision Dataset Analytics
-**PySpark | SQL | Big Data**
-Processed over **1M+ records** using PySpark and SQL to generate safety and risk insights through scalable analytics pipelines.
+
+**PySpark · SQL · Big Data**
+
+Processed **1M+ records** using PySpark and SQL to explore collision patterns, temporal trends, geographic distributions and road-safety insights.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚗 [Car Price Prediction](https://github.com/piyush0920/Car_price_predictions)
 
-### Programming
-`Python` `SQL` `PySpark`
+**Python · Regression · Feature Engineering · Scikit-learn**
+
+Built regression models for car price prediction with feature engineering, multicollinearity analysis and regularization using **Ridge and Lasso regression**.
+
+---
+
+## 🧰 Technical Stack
+
+### Programming & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ### Machine Learning
-`Scikit-learn` `Statsmodels` `NLP` `CRF` `Regression` `Classification`
 
-### GenAI / LLM
-`LangChain` `Chroma` `Ollama` `Ragas` `HuggingFace`
+`Scikit-learn` · `Statsmodels` · `Classification` · `Regression`  
+`Feature Engineering` · `Model Evaluation` · `Hyperparameter Tuning`
+
+### GenAI & NLP
+
+`LangChain` · `ChromaDB` · `Ollama` · `Ragas` · `Hugging Face`  
+`RAG` · `Embeddings` · `Vector Search` · `NLP` · `CRF`
 
 ### Forecasting
-`ARIMA` `SARIMA` `Holt-Winters` `Exponential Smoothing`
 
-### Visualization
-`Power BI` `Tableau` `Matplotlib` `Seaborn` `Excel`
+`ARIMA` · `SARIMA` · `Holt-Winters` · `Exponential Smoothing`
+
+### Analytics & Visualization
+
+`Power BI` · `DAX` · `Power Query` · `Excel`  
+`Matplotlib` · `Seaborn` · `Tableau`
 
 ### Tools
-`Git` `GitHub` `Jupyter Notebook` `VS Code` `Google BigQuery`
+
+`Git` · `GitHub` · `Jupyter Notebook` · `VS Code` · `Google BigQuery`
+
+---
+
+## 🎓 Education
+
+**Executive Diploma in Data Science & AI**  
+Indian Institute of Information Technology Bangalore *(IIIT Bangalore)*  
+`In Progress`
+
+**Bachelor's in Mathematics**  
+University of Delhi
 
 ---
 
 ## 📜 Certifications
-- 🎓 Executive Diploma in Data Science & AI — IIIT Bangalore *(In Progress)*
-- 🏅 Google Data Analytics Professional Certificate
-- 🏅 Programming & Mathematics Bootcamp — UpGrad
+
+- 🎓 **Executive Diploma in Data Science & AI** — IIIT Bangalore *(In Progress)*
+- 🏅 **Google Data Analytics Professional Certificate**
+- 🏅 **Programming & Mathematics Bootcamp** — UpGrad
 
 ---
 
-## 🎯 Current Focus
-- Machine Learning & Predictive Analytics
-- RAG Systems & LLM Evaluation
-- Time Series Forecasting
-- Advanced SQL & PySpark
-- End-to-End Data Science Projects
-- Building a Strong Analytics & ML Portfolio
+## 🔭 Currently Exploring
 
----
-
-## 📬 Connect With Me
-📍 Delhi, India
-💼 LinkedIn: https://www.linkedin.com/in/piyush-sharma-6591171ba
-📧 Email: piyushsh0920@gmail.com
-
----
-
-### Open to Opportunities In
-- Data Analyst
-- Business Analyst
-- Machine Learning Analyst
-- Data Scientist
-- Forecasting & Predictive Analytics
-
-⭐ If you find my projects interesting, feel free to connect or collaborate!
+```text
+RAG Systems              ████████████████████
+LLM Applications         ██████████████████░░
+Machine Learning         ███████████████████░
+Time Series Forecasting  █████████████████░░░
+Advanced SQL             ████████████████░░░░
+PySpark                  ███████████████░░░░░
