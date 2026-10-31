@@ -1,156 +1,120 @@
 
 <div align="center">
 
-# Piyush Sharma
+# PIYUSH SHARMA
 
-### DATA ANALYTICS · MACHINE LEARNING · GENAI
+### DATA ANALYTICS · MACHINE LEARNING · GENERATIVE AI
 
-Building practical AI systems and data-driven solutions.
+Turning data into insights and intelligent systems into practical solutions.
 
-[GitHub](https://github.com/piyush0920) · [Portfolio](https://piyush0920.github.io/)
+[Portfolio](https://piyush0920.github.io/) · [GitHub](https://github.com/piyush0920) · [LinkedIn](https://www.linkedin.com/)
+
+<br/>
 
 ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=A78BFA)
 ![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![PySpark](https://img.shields.io/badge/PySpark-18181B?style=flat-square&logo=apachespark&logoColor=A78BFA)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-18181B?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
 ![GenAI](https://img.shields.io/badge/GenAI-18181B?style=flat-square&logo=openai&logoColor=A78BFA)
-![Power BI](https://img.shields.io/badge/Power_BI-18181B?style=flat-square&logo=powerbi&logoColor=A78BFA)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-18181B?style=flat-square&logo=googlecloud&logoColor=A78BFA)
 
 </div>
 
 ---
 
-## 01 / About
+## 01 / PROFILE
 
-Data professional with **2+ years of experience in Property & Casualty Insurance Operations at Xceedance**, working across data quality, operational analytics, KPI reporting, and process optimization.
+Data professional with **2+ years of experience in Property & Casualty Insurance Operations at Xceedance**, combining operational domain knowledge with data analytics and technology.
 
-Currently pursuing an **Executive Diploma in Data Science & AI at IIIT Bangalore**, with hands-on projects spanning machine learning, NLP, forecasting, business intelligence, and Generative AI.
+Currently pursuing an **Executive Diploma in Data Science & AI from IIIT Bangalore**, with hands-on experience building analytical solutions, machine learning models, NLP applications, and production-oriented Generative AI systems.
 
-- **Current role:** Process Expert — Xceedance
-- **Focus:** Data Analytics, Machine Learning & GenAI
+My work focuses on translating complex data into actionable business insights, developing intelligent applications, and solving real-world problems through analytical thinking.
+
+- **Current Role:** Process Expert — Xceedance
+- **Industry Experience:** P&C Insurance Operations
+- **Core Focus:** Data Analytics, Machine Learning & GenAI
 - **Education:** Mathematics — University of Delhi
-- **Currently exploring:** Hybrid RAG, LLM fine-tuning, and retrieval evaluation
+- **Recognition:** Selected among 200 participants from 1,300 applications for Maven's Google Data Agent Kit workshop.
 
 ---
 
-## 02 / Featured Projects
+## 02 / SELECTED PROJECTS
+
+### GENAI & INTELLIGENT APPLICATIONS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Hybrid RAG](https://github.com/piyush0920/Hybrid-RAG-Fine-tuned-for-Customer-Support-)
+#### [01. Hybrid RAG — Customer Support](https://github.com/piyush0920/Hybrid-RAG-Fine-tuned-for-Customer-Support-)
 
-**Customer Support · GenAI**
+**Fine-Tuned LLM · Retrieval-Augmented Generation**
 
-A customer support pipeline combining fine-tuned intent classification, SOP retrieval, and grounded response generation.
+Built a customer support pipeline combining fine-tuned intent classification, SOP retrieval, and grounded response generation.
 
-- Qwen2.5-1.5B-Instruct
-- LoRA / PEFT fine-tuning
-- ChromaDB vector retrieval
-- Baseline vs. Naive RAG vs. Hybrid RAG evaluation
+- Fine-tuned Qwen2.5-1.5B-Instruct
+- Parameter-efficient fine-tuning using LoRA and PEFT
+- Quantized model training with BitsAndBytes
+- Intent-to-query mapping
+- Persistent ChromaDB vector retrieval
+- Compared baseline, Naive RAG, and Hybrid RAG architectures
 
-`Transformers` `PyTorch` `ChromaDB`
-
-</td>
-<td width="50%" valign="top">
-
-### [Legal Document RAG](https://github.com/piyush0920/RAG_for_legal_documents)
-
-**Document Intelligence · GenAI**
-
-An end-to-end RAG pipeline for a multi-category legal document corpus.
-
-- 84K+ chunks processed
-- Context precision of 1.0 on evaluated queries
-- Embeddings and semantic retrieval
-- Ragas-based evaluation
-
-`LangChain` `ChromaDB` `Ollama`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Namma Yatri Analytics](https://github.com/piyush0920/Namma-Yatri-Ride-Hailing-Analysis-Power-BI-Dashboard)
-
-**Business Intelligence**
-
-A Power BI solution analysing ride lifecycle, revenue, cancellations, and operational performance across 37 Bengaluru zones.
-
-- 45.49% successful ride conversion
-- 67.56% quote-to-completion rate
-- Star-schema data model and DAX KPIs
-
-`Power BI` `DAX` `Power Query`
+`Python` `PyTorch` `Transformers` `LoRA` `ChromaDB`
 
 </td>
 <td width="50%" valign="top">
 
-### [Airline Passenger Forecasting](https://github.com/piyush0920/airline-passenger-forecasting)
+#### [02. Ask Piyush AI](https://piyush0920.github.io/)
 
-**Time Series · Forecasting**
+**Deployed AI Portfolio Assistant**
 
-Compared 13 forecasting approaches across 144 monthly observations.
+Developed and deployed a conversational AI assistant that allows recruiters and visitors to explore my professional background through natural language.
 
-- Statistical and SARIMA models
-- Chronological train/test validation
-- RMSE and MAPE evaluation
+- Gemini-powered response generation
+- ChromaDB semantic retrieval
+- Structured knowledge base for profile, skills, and projects
+- FastAPI backend
+- Docker containerization
+- Google Cloud Run deployment
+- API key management through Secret Manager
 
-`Python` `Statsmodels` `SARIMA`
+`Python` `FastAPI` `Gemini` `ChromaDB` `Docker` `GCP`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### [Cardio Risk Prediction](https://github.com/piyush0920/cardio_risk_prediction)
+#### [03. Legal Document RAG](https://github.com/piyush0920/RAG_for_legal_documents)
 
-**Machine Learning**
+**Document Intelligence · RAG Evaluation**
 
-A classification pipeline built around 70K+ patient records.
+Built an end-to-end RAG pipeline over a multi-category legal document corpus.
 
-- Feature engineering
-- Model comparison and tuning
-- Threshold optimization
-- Approximately 73% reported accuracy
+- Processed 84K+ document chunks
+- Achieved 1.0 context precision on evaluated queries
+- Implemented document preprocessing and chunking
+- Persistent ChromaDB vector storage
+- Local LLM inference using Ollama
+- Evaluated retrieval and generation using Ragas
 
-`Scikit-learn` `SVM` `Classification`
-
-</td>
-<td width="50%" valign="top">
-
-### [NYC Taxi Analysis](https://github.com/piyush0920/nycTaxiAssignment)
-
-**Data Analytics**
-
-Explored taxi demand, trip patterns, and operational trends to support data-driven decision-making.
-
-`Python` `SQL` `Visualization`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Collision Dataset Analytics
-
-**Big Data**
-
-Processed 1M+ records to investigate collision severity, temporal patterns, geographic distribution, and road-safety insights.
-
-`PySpark` `SQL` `EDA`
+`LangChain` `ChromaDB` `Ollama` `Ragas`
 
 </td>
 <td width="50%" valign="top">
 
-### [Car Price Prediction](https://github.com/piyush0920/Car_price_predictions)
+#### [04. SHL Assessment — Grammar Scoring](https://github.com/piyush0920/SHL_Assessment)
 
-**Predictive Modelling**
+**NLP · AI Assessment**
 
-Regression modelling with feature engineering, multicollinearity analysis, and regularization.
+Developed a grammar-scoring application focused on evaluating spoken-English assessment responses.
 
-`Python` `Ridge` `Lasso`
+- Grammar assessment and scoring
+- NLP-based language analysis
+- Model evaluation for assessment-oriented use cases
+
+`Python` `NLP` `Machine Learning`
 
 </td>
 </tr>
@@ -158,20 +122,212 @@ Regression modelling with feature engineering, multicollinearity analysis, and r
 
 ---
 
-## 03 / Technical Toolkit
+### BUSINESS INTELLIGENCE & CLOUD ANALYTICS
 
-| Domain | Technologies |
-|---|---|
-| Programming & Data | Python, SQL, PySpark |
-| Machine Learning | Scikit-learn, Classification, Regression, Feature Engineering |
-| GenAI & NLP | LangChain, ChromaDB, Ollama, Hugging Face, RAG, LoRA, PEFT, CRF |
-| Forecasting | ARIMA, SARIMA, Holt-Winters, Exponential Smoothing |
-| BI & Visualization | Power BI, DAX, Power Query, Excel, Matplotlib, Seaborn, Tableau |
-| Tools | Git, GitHub, Jupyter Notebook, VS Code, Google BigQuery |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [05. Namma Yatri — Ride-Hailing Analytics](https://github.com/piyush0920/Namma-Yatri-Ride-Hailing-Analysis-Power-BI-Dashboard)
+
+**Business Intelligence · Power BI**
+
+Developed an end-to-end analytics dashboard covering ride lifecycle, demand, revenue, cancellations, and operational performance across 37 Bengaluru zones.
+
+- 45.49% successful ride conversion
+- 67.56% quote-to-completion rate
+- Star-schema data modelling
+- DAX-based operational KPIs
+- Conversion and cancellation analysis
+
+`Power BI` `DAX` `Power Query`
+
+</td>
+<td width="50%" valign="top">
+
+#### 06. Charlie's Coffee — Expansion Intelligence
+
+**Maven Workshop · Google Data Agent Kit**
+
+Developed a cloud-powered business intelligence solution during Maven's October 2026 workshop to evaluate expansion opportunities for a fictional coffee business in San Francisco.
+
+- BigQuery AI.FORECAST for revenue forecasting
+- AlloyDB inventory and operational analysis
+- Cloud Storage commercial lease document analysis
+- AI.CLASSIFY customer review analysis
+- Interactive site comparison and scenario modelling
+- Recommended Dogpatch (SITE-001) based on commercial and operational evidence
+
+**Case-study findings**
+- $172K forecasted monthly revenue
+- 24% projected market growth
+- Identified 3 operational stockout issues
+- Uncovered hidden lease costs and contractual risks
+
+`Google Cloud` `BigQuery` `AlloyDB` `GCS` `AI`
+
+[Workshop Certificate & Details](https://maven.com/wrap-up/b6e58d65)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 04 / Education
+### MACHINE LEARNING & PREDICTIVE ANALYTICS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [07. Airline Passenger Demand Forecasting](https://github.com/piyush0920/airline-passenger-forecasting)
+
+**Time Series · Predictive Modelling**
+
+Compared 13 forecasting approaches across 144 monthly observations.
+
+- Statistical and SARIMA-based models
+- Chronological train/test validation
+- RMSE and MAPE evaluation
+- Seasonal modelling and transformations
+
+`Python` `Statsmodels` `SARIMA`
+
+</td>
+<td width="50%" valign="top">
+
+#### [08. Cardio Risk Prediction](https://github.com/piyush0920/cardio_risk_prediction)
+
+**Classification · Machine Learning**
+
+Built a cardiovascular risk prediction pipeline using 70K+ patient records.
+
+- Data cleaning and exploratory analysis
+- BMI-related feature engineering
+- Classification model comparison
+- Threshold optimization
+- GridSearchCV hyperparameter tuning
+- Approximately 73% reported predictive accuracy
+
+`Python` `Scikit-learn` `SVM`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### [09. Recipe Ingredient Named Entity Recognition](https://github.com/piyush0920/Identifying-Key-Entities-in-Recipe-Data)
+
+**NLP · Sequence Labelling**
+
+Developed a Conditional Random Field (CRF) model to transform unstructured recipe ingredient text into structured information.
+
+- Extracted ingredient, quantity, and unit entities
+- Engineered custom token-level lexical and contextual features
+- Addressed class imbalance
+- Evaluated sequence-labelling performance
+- Conducted error analysis using classification metrics and confusion matrices
+
+`Python` `CRF` `spaCy` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+#### [10. Car Price Prediction](https://github.com/piyush0920/Car_price_predictions)
+
+**Regression · Feature Engineering**
+
+Developed regression models for car price prediction.
+
+- Feature engineering
+- Multicollinearity analysis using VIF
+- Ridge and Lasso regularization
+- Model tuning and performance comparison
+
+`Python` `Scikit-learn` `Regression`
+
+</td>
+</tr>
+</table>
+
+---
+
+### DATA ENGINEERING & LARGE-SCALE ANALYTICS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [11. California Traffic Collision ETL & Analysis](https://github.com/piyush0920/California-Traffic-Collision-ETL-and-Analysis)
+
+**Big Data · ETL · PySpark**
+
+Built an ETL and exploratory analytics workflow using California traffic collision datasets.
+
+- Processed collision, party, and victim datasets
+- Data cleaning and schema standardization
+- IQR-based outlier detection
+- PySpark transformations and Spark SQL
+- Temporal, geographic, and severity analysis
+- AWS S3 export workflow
+
+`PySpark` `Spark SQL` `SQLite` `AWS S3`
+
+</td>
+<td width="50%" valign="top">
+
+#### [12. NYC Taxi Operations Analysis](https://github.com/piyush0920/nycTaxiAssignment)
+
+**Data Analytics · SQL**
+
+Analysed large-scale NYC taxi trip data to identify demand patterns, operational trends, and opportunities for improved decision-making.
+
+- Data preparation and transformation
+- SQL-based analysis
+- Operational and temporal trends
+- Data visualization
+
+`Python` `SQL` `Data Analysis`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03 / TECHNICAL TOOLKIT
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Big Data | PySpark, Spark SQL |
+| Machine Learning | Scikit-learn, Classification, Regression, Feature Engineering |
+| GenAI & LLMs | LangChain, Gemini, Hugging Face, Ollama, RAG, LoRA, PEFT |
+| NLP | CRF, NER, Tokenization, Embeddings |
+| Vector Databases | ChromaDB |
+| Forecasting | ARIMA, SARIMA, Holt-Winters, Exponential Smoothing |
+| Business Intelligence | Power BI, DAX, Power Query, Excel |
+| Cloud & Deployment | Google Cloud, BigQuery, AlloyDB, Cloud Run, Docker, AWS S3 |
+| Development Tools | Git, GitHub, Jupyter Notebook, VS Code |
+
+---
+
+## 04 / PROFESSIONAL EXPERIENCE
+
+**Process Expert — Xceedance**
+
+*Property & Casualty Insurance Operations*
+
+- Operational KPI reporting and performance monitoring
+- Data validation, reconciliation, and quality governance
+- Process optimization and SOP documentation
+- Cross-functional stakeholder coordination
+- Operational analytics and reporting improvements
+
+---
+
+## 05 / EDUCATION
 
 **Executive Diploma in Data Science & AI**  
 Indian Institute of Information Technology Bangalore  
@@ -182,17 +338,37 @@ University of Delhi
 
 ---
 
-## 05 / Certifications
+## 06 / CERTIFICATIONS & RECOGNITION
 
-- Google Data Analytics Professional Certificate
-- Programming & Mathematics Bootcamp — UpGrad
+- [**The New Age of Data Science: Working with Google Data Agent Kit**](https://maven.com/wrap-up/b6e58d65) — Maven, October 2026
+  - Selected among **200 participants from 1,300 applications**.
+  - Completed the Charlie's Coffee expansion and operations intelligence workshop project.
+- **Google Data Analytics Professional Certificate**
+- **Programming & Mathematics Bootcamp** — UpGrad
+
+---
+
+## 07 / CURRENT FOCUS
+
+- Building retrieval-augmented and agentic AI applications
+- Fine-tuning and evaluating language models
+- Improving retrieval quality and grounded generation
+- Developing cloud-deployed AI applications
+- Advanced SQL, PySpark, and analytical modelling
 
 ---
 
 <div align="center">
 
-### Interested in data, intelligent systems, and meaningful problem-solving.
+### LET'S CONNECT
 
-[Explore my repositories](https://github.com/piyush0920?tab=repositories) · [Visit my portfolio](https://piyush0920.github.io/)
+Interested in opportunities across **Data Analytics, Business Intelligence, Data Science, Machine Learning, and Generative AI**.
+
+I enjoy working at the intersection of business problems, analytical thinking, and intelligent technology.
+
+<br/>
+
+[GitHub Repositories](https://github.com/piyush0920?tab=repositories)  
+[Portfolio & Ask Piyush AI](https://piyush0920.github.io/)
 
 </div>
