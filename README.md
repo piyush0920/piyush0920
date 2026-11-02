@@ -40,95 +40,75 @@ My work focuses on translating complex data into actionable business insights, d
 
 ## 02 / SELECTED PROJECTS
 
-### GENAI & INTELLIGENT APPLICATIONS
+### DATA ANALYTICS & ENGINEERING
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [01. Hybrid RAG — Customer Support](https://github.com/piyush0920/Hybrid-RAG-Fine-tuned-for-Customer-Support-)
+#### [01. California Traffic Collision ETL & Analysis](https://github.com/piyush0920/California-Traffic-Collision-ETL-and-Analysis)
 
-**Fine-Tuned LLM · Retrieval-Augmented Generation**
+**Big Data · ETL · PySpark**
 
-Built a customer support pipeline combining fine-tuned intent classification, SOP retrieval, and grounded response generation.
+Built a PySpark preparation and exploratory analytics workflow using staged California traffic collision CSV files.
 
-- Fine-tuned Qwen2.5-1.5B-Instruct
-- Parameter-efficient fine-tuning using LoRA and PEFT
-- Quantized model training with BitsAndBytes
-- Intent-to-query mapping
-- Persistent ChromaDB vector retrieval
-- Compared baseline, Naive RAG, and Hybrid RAG architectures
+- Combined collision, party, victim, and case-level CSV inputs
+- Data cleaning, schema standardization, and selected outlier checks
+- PySpark transformations and Spark SQL analysis
+- Temporal, geographic, and severity visualizations
+- Optional AWS S3 export step (requires external bucket and S3A configuration)
 
-`Python` `PyTorch` `Transformers` `LoRA` `ChromaDB`
+`PySpark` `Spark SQL` `AWS S3`
 
 </td>
 <td width="50%" valign="top">
 
-#### [02. Ask Piyush AI](https://piyush0920.github.io/)
+#### [02. NYC Taxi Operations Analysis](https://github.com/piyush0920/nycTaxiAssignment)
 
-**Deployed AI Portfolio Assistant**
+**Data Analytics · Geospatial EDA**
 
-Developed and deployed a conversational AI assistant that allows recruiters and visitors to explore my professional background through natural language.
+Analysed sampled 2023 NYC Yellow Taxi trip records to identify demand patterns, trip economics, and geographic activity.
 
-- Gemini-powered response generation
-- ChromaDB semantic retrieval
-- Structured knowledge base for profile, skills, and projects
-- FastAPI backend
-- Docker containerization
-- Google Cloud Run deployment
-- API key management through Secret Manager
+- Data preparation and cleaning with pandas
+- Time-based demand and revenue analysis
+- Taxi-zone geospatial analysis with GeoPandas
+- Operational recommendations for fleet positioning
 
-`Python` `FastAPI` `Gemini` `ChromaDB` `Docker` `GCP`
+`Python` `Pandas` `GeoPandas` `EDA`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-#### [03. Legal Document RAG](https://github.com/piyush0920/RAG_for_legal_documents)
+#### [03. Airline Passenger Demand Forecasting](https://github.com/piyush0920/airline-passenger-forecasting)
 
-**Document Intelligence · RAG Evaluation**
+**Time Series Analytics · Forecasting**
 
-Built an end-to-end RAG pipeline over a multi-category legal document corpus.
+Compared 13 forecasting approaches across 144 monthly observations. Holt-Winters Multiplicative recorded the lowest reported test RMSE (32.49) and MAPE (6.39%).
 
-- Processed 84K+ document chunks
-- Achieved 1.0 context precision on evaluated queries
-- Implemented document preprocessing and chunking
-- Persistent ChromaDB vector storage
-- Local LLM inference using Ollama
-- Evaluated retrieval and generation using Ragas
+- Baseline, exponential-smoothing, and ARIMA-family models
+- Chronological train/test validation
+- RMSE and MAPE evaluation
+- Trend, seasonal modelling, and log transformation
 
-`LangChain` `ChromaDB` `Ollama` `Ragas`
+`Python` `Statsmodels` `SARIMA`
 
 </td>
 <td width="50%" valign="top">
-
-#### [04. SHL Assessment — Grammar Scoring](https://github.com/piyush0920/SHL_Assessment)
-
-**NLP · AI Assessment**
-
-Developed a grammar-scoring application focused on evaluating spoken-English assessment responses.
-
-- Grammar assessment and scoring
-- NLP-based language analysis
-- Model evaluation for assessment-oriented use cases
-
-`Python` `NLP` `Machine Learning`
-
 </td>
 </tr>
 </table>
 
 ---
 
-### BUSINESS INTELLIGENCE & CLOUD ANALYTICS
+### BUSINESS INTELLIGENCE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [05. Namma Yatri — Ride-Hailing Analytics](https://github.com/piyush0920/Namma-Yatri-Ride-Hailing-Analysis-Power-BI-Dashboard)
+#### [04. Namma Yatri — Ride-Hailing Analytics](https://github.com/piyush0920/Namma-Yatri-Ride-Hailing-Analysis-Power-BI-Dashboard)
 
 **Business Intelligence · Power BI**
 
@@ -145,7 +125,7 @@ Developed an end-to-end analytics dashboard covering ride lifecycle, demand, rev
 </td>
 <td width="50%" valign="top">
 
-#### 06. Charlie's Coffee — Expansion Intelligence
+#### [05. Charlie's Coffee — Expansion Intelligence](https://maven.com/wrap-up/b6e58d65)
 
 **Maven Workshop · Google Data Agent Kit**
 
@@ -174,29 +154,96 @@ Developed a cloud-powered business intelligence solution during Maven's October 
 
 ---
 
-### MACHINE LEARNING & PREDICTIVE ANALYTICS
+### GENERATIVE AI & RAG
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [07. Airline Passenger Demand Forecasting](https://github.com/piyush0920/airline-passenger-forecasting)
+#### [06. Hybrid RAG — Customer Support](https://github.com/piyush0920/Hybrid-RAG-Fine-tuned-for-Customer-Support-)
 
-**Time Series · Predictive Modelling**
+**Fine-Tuned LLM · Retrieval-Augmented Generation**
 
-Compared 13 forecasting approaches across 144 monthly observations. Holt-Winters Multiplicative recorded the lowest reported test RMSE (32.49) and MAPE (6.39%).
+Built a customer support pipeline combining fine-tuned intent classification, SOP retrieval, and grounded response generation.
 
-- Baseline, exponential-smoothing, and ARIMA-family models
-- Chronological train/test validation
-- RMSE and MAPE evaluation
-- Trend, seasonal modelling, and log transformation
+- Fine-tuned Qwen2.5-1.5B-Instruct
+- Parameter-efficient fine-tuning using LoRA and PEFT
+- Quantized model training with BitsAndBytes
+- Intent-to-query mapping
+- Persistent ChromaDB vector retrieval
+- Compared baseline, Naive RAG, and Hybrid RAG architectures
 
-`Python` `Statsmodels` `SARIMA`
+`Python` `PyTorch` `Transformers` `LoRA` `ChromaDB`
 
 </td>
 <td width="50%" valign="top">
 
-#### [08. Cardio Risk Prediction](https://github.com/piyush0920/cardio_risk_prediction)
+#### [07. Ask Piyush AI](https://piyush0920.github.io/)
+
+**Deployed AI Portfolio Assistant**
+
+Developed and deployed a conversational AI assistant that allows recruiters and visitors to explore my professional background through natural language.
+
+- Gemini-powered response generation
+- ChromaDB semantic retrieval
+- Structured knowledge base for profile, skills, and projects
+- FastAPI backend
+- Docker containerization
+- Google Cloud Run deployment
+- API key management through Secret Manager
+
+`Python` `FastAPI` `Gemini` `ChromaDB` `Docker` `GCP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [08. Legal Document RAG](https://github.com/piyush0920/RAG_for_legal_documents)
+
+**Document Intelligence · RAG Evaluation**
+
+Built an end-to-end RAG pipeline over a multi-category legal document corpus.
+
+- Processed 84K+ document chunks
+- Achieved 1.0 context precision on evaluated queries
+- Implemented document preprocessing and chunking
+- Persistent ChromaDB vector storage
+- Local LLM inference using Ollama
+- Evaluated retrieval and generation using Ragas
+
+`LangChain` `ChromaDB` `Ollama` `Ragas`
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+---
+
+### MACHINE LEARNING & NLP
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [09. SHL Assessment — Grammar Scoring](https://github.com/piyush0920/SHL_Assessment)
+
+**NLP · AI Assessment**
+
+Developed a grammar-scoring application focused on evaluating spoken-English assessment responses.
+
+- Grammar assessment and scoring
+- NLP-based language analysis
+- Model evaluation for assessment-oriented use cases
+
+`Python` `NLP` `Machine Learning`
+
+</td>
+<td width="50%" valign="top">
+
+#### [10. Cardio Risk Prediction](https://github.com/piyush0920/cardio_risk_prediction)
 
 **Classification · Machine Learning**
 
@@ -213,11 +260,10 @@ Built a cardiovascular risk prediction pipeline using 70K+ patient records.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-#### [09. Recipe Ingredient Named Entity Recognition](https://github.com/piyush0920/Identifying-Key-Entities-in-Recipe-Data)
+#### [11. Recipe Ingredient Named Entity Recognition](https://github.com/piyush0920/Identifying-Key-Entities-in-Recipe-Data)
 
 **NLP · Sequence Labelling**
 
@@ -234,7 +280,7 @@ Developed a Conditional Random Field (CRF) model to transform unstructured recip
 </td>
 <td width="50%" valign="top">
 
-#### [10. Car Price Prediction](https://github.com/piyush0920/Car_price_predictions)
+#### [12. Car Price Prediction](https://github.com/piyush0920/Car_price_predictions)
 
 **Regression · Feature Engineering**
 
@@ -246,48 +292,6 @@ Developed Linear, Ridge, and Lasso regressors using engineered vehicle features 
 - Similar test performance across all three models (metrics are on log-price scale)
 
 `Python` `Scikit-learn` `Regression`
-
-</td>
-</tr>
-</table>
-
----
-
-### DATA ENGINEERING & LARGE-SCALE ANALYTICS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [11. California Traffic Collision ETL & Analysis](https://github.com/piyush0920/California-Traffic-Collision-ETL-and-Analysis)
-
-**Big Data · ETL · PySpark**
-
-Built a PySpark preparation and exploratory analytics workflow using staged California traffic collision CSV files.
-
-- Combined collision, party, victim, and case-level CSV inputs
-- Data cleaning, schema standardization, and selected outlier checks
-- PySpark transformations and Spark SQL analysis
-- Temporal, geographic, and severity visualizations
-- Optional AWS S3 export step (requires external bucket and S3A configuration)
-
-`PySpark` `Spark SQL` `AWS S3`
-
-</td>
-<td width="50%" valign="top">
-
-#### [12. NYC Taxi Operations Analysis](https://github.com/piyush0920/nycTaxiAssignment)
-
-**Data Analytics · Geospatial EDA**
-
-Analysed sampled 2023 NYC Yellow Taxi trip records to identify demand patterns, trip economics, and geographic activity.
-
-- Data preparation and cleaning with pandas
-- Time-based demand and revenue analysis
-- Taxi-zone geospatial analysis with GeoPandas
-- Operational recommendations for fleet positioning
-
-`Python` `Pandas` `GeoPandas` `EDA`
 
 </td>
 </tr>
