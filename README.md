@@ -7,7 +7,7 @@
 
 Turning data into insights and intelligent systems into practical solutions.
 
-[Portfolio](https://piyush0920.github.io/) · [GitHub](https://github.com/piyush0920) · [LinkedIn](https://www.linkedin.com/)
+[Portfolio](https://piyush0920.github.io/) · [GitHub](https://github.com/piyush0920) · [LinkedIn](https://linkedin.com/in/piyush-sharma-6591171ba)
 
 <br/>
 
@@ -184,12 +184,12 @@ Developed a cloud-powered business intelligence solution during Maven's October 
 
 **Time Series · Predictive Modelling**
 
-Compared 13 forecasting approaches across 144 monthly observations.
+Compared 13 forecasting approaches across 144 monthly observations. Holt-Winters Multiplicative recorded the lowest reported test RMSE (32.49) and MAPE (6.39%).
 
-- Statistical and SARIMA-based models
+- Baseline, exponential-smoothing, and ARIMA-family models
 - Chronological train/test validation
 - RMSE and MAPE evaluation
-- Seasonal modelling and transformations
+- Trend, seasonal modelling, and log transformation
 
 `Python` `Statsmodels` `SARIMA`
 
@@ -238,12 +238,12 @@ Developed a Conditional Random Field (CRF) model to transform unstructured recip
 
 **Regression · Feature Engineering**
 
-Developed regression models for car price prediction.
+Developed Linear, Ridge, and Lasso regressors using engineered vehicle features and a log-transformed price target.
 
-- Feature engineering
+- Feature engineering and category consolidation
 - Multicollinearity analysis using VIF
-- Ridge and Lasso regularization
-- Model tuning and performance comparison
+- Five-fold alpha tuning for Ridge and Lasso
+- Similar test performance across all three models (metrics are on log-price scale)
 
 `Python` `Scikit-learn` `Regression`
 
@@ -263,32 +263,31 @@ Developed regression models for car price prediction.
 
 **Big Data · ETL · PySpark**
 
-Built an ETL and exploratory analytics workflow using California traffic collision datasets.
+Built a PySpark preparation and exploratory analytics workflow using staged California traffic collision CSV files.
 
-- Processed collision, party, and victim datasets
-- Data cleaning and schema standardization
-- IQR-based outlier detection
-- PySpark transformations and Spark SQL
-- Temporal, geographic, and severity analysis
-- AWS S3 export workflow
+- Combined collision, party, victim, and case-level CSV inputs
+- Data cleaning, schema standardization, and selected outlier checks
+- PySpark transformations and Spark SQL analysis
+- Temporal, geographic, and severity visualizations
+- Optional AWS S3 export step (requires external bucket and S3A configuration)
 
-`PySpark` `Spark SQL` `SQLite` `AWS S3`
+`PySpark` `Spark SQL` `AWS S3`
 
 </td>
 <td width="50%" valign="top">
 
 #### [12. NYC Taxi Operations Analysis](https://github.com/piyush0920/nycTaxiAssignment)
 
-**Data Analytics · SQL**
+**Data Analytics · Geospatial EDA**
 
-Analysed large-scale NYC taxi trip data to identify demand patterns, operational trends, and opportunities for improved decision-making.
+Analysed sampled 2023 NYC Yellow Taxi trip records to identify demand patterns, trip economics, and geographic activity.
 
-- Data preparation and transformation
-- SQL-based analysis
-- Operational and temporal trends
-- Data visualization
+- Data preparation and cleaning with pandas
+- Time-based demand and revenue analysis
+- Taxi-zone geospatial analysis with GeoPandas
+- Operational recommendations for fleet positioning
 
-`Python` `SQL` `Data Analysis`
+`Python` `Pandas` `GeoPandas` `EDA`
 
 </td>
 </tr>
