@@ -361,6 +361,27 @@ University of Delhi
 
 ---
 
+
+## Ask Piyush AI — Live API Benchmark
+
+I benchmarked the deployed portfolio RAG assistant using a **30-question test suite across six categories**: experience, skills, analytics projects, GenAI projects, portfolio and out-of-scope prompts. The v2 benchmark separates three warm-up requests from the measured warm-instance run and paces sequential requests at five per minute.
+
+| Warm-instance metric | Result |
+|---|---:|
+| Successful requests | **30 / 30 (100%)** |
+| Mean latency | **2.29 s** |
+| Median latency (p50) | **1.68 s** |
+| 95th percentile (p95) | **6.22 s** |
+| Latency range | 1.39–7.70 s |
+| HTTP 429 retries | **0** |
+
+The three warm-up requests took 8.61 s, 6.15 s and 7.73 s. The first value is only a cold-start estimate if the service had been idle; idle time was not recorded, so cold start is **unverified**. Experience questions were the slowest category (4.60 s mean, 4.00 s median).
+
+**Scope and limitations:** This was a sequential, single-user speed and availability test. HTTP success does not establish factual correctness. The run did not score groundedness, refusal quality or concurrent-load performance.
+
+[View / print the benchmark report](https://piyush0920.github.io/assets/ask-piyush-ai-benchmark-report.html) · [View chatbot](https://piyush0920.github.io/ask-piyush-ai.html) · [Open benchmark script](https://github.com/piyush0920/piyush0920.github.io/blob/main/ask_piyush_ai_benchmark_v2.py)
+
+
 <div align="center">
 
 ### LET'S CONNECT
