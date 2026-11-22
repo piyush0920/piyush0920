@@ -7,7 +7,7 @@
 
 Turning data into insights and intelligent systems into practical solutions.
 
-[Portfolio](https://piyush0920.github.io/) · [GitHub](https://github.com/piyush0920) · [LinkedIn](https://linkedin.com/in/piyush-sharma-6591171ba)
+[Portfolio](https://piyush0920.github.io/) · [GitHub](https://github.com/piyush0920) · [LinkedIn](https://www.linkedin.com/in/piyush0920/)
 
 <br/>
 
